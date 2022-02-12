@@ -2,20 +2,18 @@
 	font-family: IRANSansX;
 	font-style: normal;
 	font-weight: 500;
-	src: url('./fonts/woff/IRANSansX-medium.woff') format('woff'), url('./fonts/woff2/IRANSansX-medium.woff2') format('woff2');
+	src: url('../../fonts/woff/IRANSansX-medium.woff') format('woff'), url('../../fonts/woff2/IRANSansX-medium.woff2') format('woff2');
 }
 @font-face {
 	font-family: IRANSansX;
 	font-style: normal;
 	font-weight: bold;
-	src: url('./fonts/woff/IRANSansX-bold.woff') format('woff'),   
-	url('./fonts/woff2/IRANSansX-bold.woff2') format('woff2');	 
+	src: url('../../fonts/woff/IRANSansX-bold.woff') format('woff'), url('../../fonts/woff2/IRANSansX-bold.woff2') format('woff2');
 }
 
 @font-face {
 	font-family: IRANSansX;
 	font-style: normal;
 	font-weight: normal;
-	src: url('./fonts/woff/IRANSansX-regular.woff') format('woff'),   
-	url('./fonts/woff2/IRANSansX-regular.woff2') format('woff2');	
+	src: url('../../fonts/woff/IRANSansX-regular.woff') format('woff'), url('../../fonts/woff2/IRANSansX-regular.woff2') format('woff2');
 }
