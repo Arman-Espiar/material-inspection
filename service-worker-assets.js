@@ -385,7 +385,7 @@
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-jXdiiSHupMDpmszZcDMcwYf4ccsiCiNB7MByOXH8FsI=",
+      "hash": "sha256-tVKfO\/XcMMjvyfvk2rM8Hq0DWwOqBlYDD3SwXJM5Obw=",
       "url": "Files\/Book.xlsx"
     },
     {
@@ -645,5 +645,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "QcfkGQDI"
+  "version": "U\/YNAsI+"
 };
